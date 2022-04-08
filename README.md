@@ -3,6 +3,8 @@
 
 Implementação feita com API Rest(Spring boot).
 
-Exigências
-• JDK 1.8
-• Maven
+Considerações:
+- JDK 1.8, Maven.
+- Testes automatizados. 
+- Conceitos de arquitetura Clean Code
+- Design patterns ultilizado: Strategy Pattern.
